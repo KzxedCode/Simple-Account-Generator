@@ -9,4 +9,5 @@ Download the repo and change db login in result.php & import sql to your phpmyad
 
 ## By Kzx
 
+Demo: https://cringe.fr/projects/gen/
 😎
