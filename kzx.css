@@ -1,0 +1,41 @@
+html 
+{
+    height: 100%;
+    min-height: 100%;
+}
+
+
+body {
+    background-color: #18181b;
+}
+.kzx {
+    margin-top: 10rem;
+    margin-right: auto;
+    margin-left: auto;
+    width: 20remrem;
+    height: 12rem;
+    background-color: #0e0e10;
+    color: white
+}
+
+h1 {
+    font-family: 'Prompt', sans-serif;
+}
+
+h2 {
+
+    margin-top: 20rem;
+    font-family: 'Prompt', sans-serif;
+    color: white
+}
+
+h3 {
+
+    font-family: 'Prompt', sans-serif;
+    color: white
+}
+
+
+
+
+
